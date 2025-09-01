@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://github.com/wagnerlimanet">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Artur+Eric;Sou+Aluno+da+Escola+IwTraining!&center=true&width=780&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Artur+Eric;Sou+aluno+da+escola+IwTraining!&center=true&width=780&height=45">
   </a>
 </h3>
 
